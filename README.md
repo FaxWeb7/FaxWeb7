@@ -159,7 +159,7 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="FaxWeb7" src="https://github-readme-stats.vercel.app/api?username=FaxWeb7&show_icons=true&theme=react&count_private=true&include_all_commits=true" /></a>
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="FaxWeb7" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaxWeb7&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/FaxWeb7/github-readme-stats"><img alt="FaxWeb7" src="https://github-readme-stats.vercel.app/api?username=FaxWeb7&show_icons=true&theme=react&count_private=true" /></a>
+    <a href="https://github.com/FaxWeb7/github-readme-stats"><img alt="FaxWeb7" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaxWeb7&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/><br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
