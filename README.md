@@ -51,7 +51,7 @@
       <a href="#FaxWeb7-stack">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" width="48" height="48" alt="C"         />
       </a>
-      <br>Python
+      <br>C
     </td>
     <td align="center" width="96">
       <a href="#FaxWeb7-stack" >
