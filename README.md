@@ -7,12 +7,12 @@
   <img src="https://streak-stats.demolab.com?user=FaxWeb7&theme=black-ice&hide_border=true&background=060A0CD0" alt="FaxWeb7" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **[news-app](https://github.com/FaxWeb7/news-app)**
+<!--- :office: &nbsp;I'm currently working at **[news-app](https://github.com/FaxWeb7/news-app)**
 - :fire: &nbsp;I can develop **full-stack** websites
 - :speech_balloon: &nbsp;Extensive development experience 
 - 📘 &nbsp;Know how to use **[Typescript](https://www.typescriptlang.org/)**
 - 📖 &nbsp;Know how to develop **telegram-bots**
-- :writing_hand: &nbsp;Learn how to use **[React Native](https://reactnative.dev/)**
+- :writing_hand: &nbsp;Learn how to use **[React Native](https://reactnative.dev/)**-->
 
 <br>
 
