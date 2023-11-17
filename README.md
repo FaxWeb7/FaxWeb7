@@ -48,6 +48,12 @@
       <br>Python
     </td>
     <td align="center" width="96">
+      <a href="#FaxWeb7-stack">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" width="48" height="48" alt="C"         />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
       <a href="#FaxWeb7-stack" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
       </a>
