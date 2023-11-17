@@ -7,6 +7,13 @@
   <img src="https://streak-stats.demolab.com?user=FaxWeb7&theme=black-ice&hide_border=true&background=060A0CD0" alt="FaxWeb7" align="right" />
 </a>
 
+- :office: &nbsp;
+- :fire: &nbsp;
+- :speech_balloon: &nbsp;
+- 📘 &nbsp;
+- 📖 &nbsp;
+- :writing_hand: &nbsp;
+
 <!--- :office: &nbsp;I'm currently working at **[news-app](https://github.com/FaxWeb7/news-app)**
 - :fire: &nbsp;I can develop **full-stack** websites
 - :speech_balloon: &nbsp;Extensive development experience 
