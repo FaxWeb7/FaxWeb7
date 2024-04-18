@@ -54,6 +54,12 @@
       <br>C
     </td>
     <td align="center" width="96">
+      <a href="#FaxWeb7-stack">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/612px-ISO_C%2B%2B_Logo.svg.png" width="48" height="48" alt="C++"         />
+      </a>
+      <br>C++
+    </td>
+    <td align="center" width="96">
       <a href="#FaxWeb7-stack" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
       </a>
@@ -96,6 +102,18 @@
       </a>
       <br>React JS
     </td>
+    <td align="center" width="96">
+      <a href="#FaxWeb7-stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="48" height="48" alt="Redux" />
+      </a>
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+      <a href="#FaxWeb7-stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mobx/mobx-original.svg" width="48" height="48" alt="Redux" />
+      </a>
+      <br>MobX
+    </td>
           <td align="center" width="96"> 
       <a href="#FaxWeb7-stack" >
         <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
@@ -121,6 +139,12 @@
         <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="48" height="48" alt="Sass" />
       </a>
       <br>Scss
+    </td>
+    <td align="center" width="96">
+      <a href="#FaxWeb7-stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" width="48" height="48" alt="Material UI" />
+      </a>
+      <br>Material UI
     </td>
     <td align="center" width="96">
       <a href="#FaxWeb7-stack">
