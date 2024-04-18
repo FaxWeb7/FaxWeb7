@@ -1,7 +1,7 @@
 <h1 align="left">:wave: Hello there! I'm FaxWeb</h1>
 
 
-<h4 align="left">I'm a Full-Stack Web Developer</h4>
+<h4 align="left">Web Developer</h4>
 
 <a href="#FaxWeb7-title">
   <img src="https://streak-stats.demolab.com?user=FaxWeb7&theme=black-ice&hide_border=true&background=060A0CD0" alt="FaxWeb7" align="right" />
